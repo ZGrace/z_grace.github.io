@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/FlappyBirdStyleAssets/Scripts/ColumnPool.cs">
+    <Files>
+      <File FileName="Assets/FlappyBirdStyleAssets/Scripts/Bird.cs" Line="41" Column="32" />
+      <File FileName="Assets/FlappyBirdStyleAssets/Scripts/ScrollingObject.cs" Line="23" Column="4" />
+      <File FileName="Assets/FlappyBirdStyleAssets/Scripts/GameControl.cs" Line="45" Column="14" />
+      <File FileName="Assets/FlappyBirdStyleAssets/Scripts/repeatingBackground.cs" Line="16" Column="2" />
+      <File FileName="Assets/FlappyBirdStyleAssets/Scripts/ColumnScript.cs" Line="13" Column="2" />
+      <File FileName="Assets/FlappyBirdStyleAssets/Scripts/ColumnPool.cs" Line="36" Column="16" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
